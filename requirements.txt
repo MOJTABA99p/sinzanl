@@ -1,0 +1,10 @@
+rubika_lib
+datetime
+random
+PIL
+mutagen
+requests
+gtts
+colorama
+Crypto
+libraryArsein
